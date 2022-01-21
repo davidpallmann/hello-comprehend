@@ -1,0 +1,2 @@
+"Not what it seems to be
+This book is not really what it seems to be. It mainly consists of coding examples that are freely available on the Internet anyway. If you need to know more about programming WinInet and using VC++, this for you. If you are looking for help/insights/code for designing/programming agents, this will not help yo
